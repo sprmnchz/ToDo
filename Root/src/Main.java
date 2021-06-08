@@ -1,6 +1,6 @@
-package core;
 
-import core.output.outputDisplay;
+
+import output.outputDisplay;
 
 public class Main {
 

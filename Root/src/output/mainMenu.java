@@ -1,6 +1,6 @@
-package core.output;
+package output;
 
-import core.interfaces.menu;
+import interfaces.menu;
 import java.util.ArrayList;
 import java.util.List;
 
