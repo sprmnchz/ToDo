@@ -1,6 +1,6 @@
-package input;
+package root.input;
 
-import interfaces.InputDataKeyboard;
+import root.interfaces.InputDataKeyboard;
 
 import java.util.Scanner;
 

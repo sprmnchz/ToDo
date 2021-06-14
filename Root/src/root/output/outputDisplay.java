@@ -1,6 +1,6 @@
-package output;
+package root.output;
 
-import input.keyboardInput;
+import root.input.keyboardInput;
 
 public class outputDisplay {
 

@@ -1,6 +1,6 @@
+package root;
 
-
-import output.outputDisplay;
+import root.output.outputDisplay;
 
 public class Main {
 
