@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class keyboardInput implements InputDataKeyboard {
 
     private String inputKeyboardBuffer;
-    static String returnStringBuffer;
+    String returnStringBuffer;
 
     private void scannerKeyboard() {
         Scanner scannerKeyboard = new Scanner(System.in);
